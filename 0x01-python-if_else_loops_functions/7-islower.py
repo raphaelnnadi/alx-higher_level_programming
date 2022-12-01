@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # Author - Raphael Nnadi
 
 def islower(c):
